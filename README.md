@@ -16,3 +16,4 @@ $ adb install -r app/build/outputs/apk/app-debug.apk
 - [Release notes](https://admin.sandbox.datatrans.com/showcase/doc/Android_Release_Notes.pdf)
 
 Note: Please don't use the code from this sample in production.
+# Andriod-test-
